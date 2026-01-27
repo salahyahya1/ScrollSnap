@@ -1,30 +1,5 @@
-// import { Component } from '@angular/core';
-// import { gsap } from 'gsap';
-// import ScrollTrigger from 'gsap/ScrollTrigger';
-// @Component({
-//   selector: 'app-section3',
-//   imports: [],
-//   templateUrl: './section3.html',
-//   styleUrl: './section3.scss',
-// })
-// export class Section3 {
-//   ngAfterViewInit() {
-//     gsap.registerPlugin(ScrollTrigger);
-//     gsap.to("#section3-homes", {
-//       scrollTrigger: {
-//         trigger: "#section3-homes",
-//         start: "top top",
-//         end: () => "+=4500",
-//         // scrub: 1,
-//         pin: true,
-//         anticipatePin: 1,
-//         markers: true
-//       },
-//       x: 100,
-//     });
-//   }
-// }
-import { Component, AfterViewInit, OnDestroy, NgZone } from '@angular/core';
+import { Component, AfterViewInit, OnDestroy, NgZone, Inject, PLATFORM_ID } from '@angular/core';
+import { isPlatformBrowser } from '@angular/common';
 import { gsap } from 'gsap';
 import ScrollTrigger from 'gsap/ScrollTrigger';
 import ScrollSmoother from 'gsap/ScrollSmoother';
@@ -38,35 +13,54 @@ gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
 })
 export class Section3 implements AfterViewInit, OnDestroy {
   private ctx?: gsap.Context;
+  private isBrowser: boolean;
 
-  constructor(private zone: NgZone) { }
+  constructor(
+    private zone: NgZone,
+    @Inject(PLATFORM_ID) private platformId: Object
+  ) {
+    this.isBrowser = isPlatformBrowser(this.platformId);
+  }
 
   ngAfterViewInit() {
+    if (!this.isBrowser) return;
+
     this.zone.runOutsideAngular(() => {
-      const smoother = ScrollSmoother.get() as any;
-      const scrollerEl = smoother?.wrapper(); // ✅ نفس scroller
-
-      if (!scrollerEl) return;
-
-      this.ctx = gsap.context(() => {
-        gsap.to("#section3-homes", {
-          x: 100,
-          scrollTrigger: {
-            trigger: "#section3-homes",
-            scroller: scrollerEl,      // ✅ أهم سطر
-            start: "top top",
-            end: () => "+=4500",       // ✅ end أوضح
-            pin: true,
-            anticipatePin: 1,
-            invalidateOnRefresh: true,
-            markers: true,
-          },
+      this.waitForSmoother((smoother) => {
+        this.ctx = gsap.context(() => {
+          gsap.to("#section3-homes", {
+            x: 100,
+            scrollTrigger: {
+              trigger: "#section3-homes",
+              start: "top top",
+              end: () => "+=4500",
+              pin: true,
+              scrub: 1,
+              anticipatePin: 1,
+              invalidateOnRefresh: true,
+              markers: true,
+            },
+          });
+          ScrollTrigger.refresh();
         });
       });
     });
   }
 
+  private waitForSmoother(cb: (s: any) => void) {
+    const start = performance.now();
+    const tick = () => {
+      const s = ScrollSmoother.get() as any;
+      if (s) return cb(s);
+      if (performance.now() - start < 3000) {
+        requestAnimationFrame(tick);
+      }
+    };
+    tick();
+  }
+
   ngOnDestroy() {
-    this.ctx?.revert(); // ✅ ينضف pin/triggers كويس
+    this.ctx?.revert();
   }
 }
+
