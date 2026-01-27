@@ -1,0 +1,9 @@
+#smooth-wrapper {
+    height: auto;
+    overflow: hidden;
+}
+
+#smooth-content {
+    // will-change: transform;
+    background-color: var(--white);
+}

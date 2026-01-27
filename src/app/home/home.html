@@ -1,0 +1,73 @@
+<div #containerWrapper id="home">
+
+
+    <section id="section1" class="hidden md:block panel min-h-screen relative" data-bgcolor="var(--white)"
+        data-textcolor="var(--primary)">
+        <div #section1Trigger class="pointer-events-none absolute left-0 right-0 bottom-[25vh] h-px"></div>
+        <app-section1></app-section1>
+    </section>
+
+    <section id="section2" class="panel min-h-screen relative" data-bgcolor="var(--primary)"
+        data-textcolor="var(--white)">
+        <div #section2Trigger class="pointer-events-none absolute left-0 right-0 bottom-[25vh] h-px"></div>
+        <app-section2></app-section2>
+    </section>
+
+    <section id="section3" class="panel min-h-screen" data-bgcolor="var(--white)" data-textcolor="var(--primary)">
+
+        @defer (on viewport(section2Trigger); prefetch on idle) {
+        <app-section3></app-section3>
+        } @placeholder { <div class="w-full min-h-screen"></div> }
+
+    </section>
+
+    <section id="section4" class="panel min-h-screen relative" data-bgcolor="var(--primary)"
+        data-textcolor="var(--white)">
+        <div #section3Trigger class="pointer-events-none absolute left-0 right-0 bottom-[25vh] h-px"></div>
+
+        @defer (on viewport(section2Trigger); prefetch on idle) {
+        <app-section4></app-section4>
+        } @placeholder { <div class="w-full h-[100vh]"></div> }
+    </section>
+
+    <section id="section5" class="panel min-h-screen relative" data-bgcolor="var(--white)"
+        data-textcolor="var(--primary)">
+        <div #section4Trigger class="pointer-events-none absolute left-0 right-0 bottom-[25vh] h-px"></div>
+
+
+        @defer (on viewport(section4Trigger); prefetch on idle) {
+        <app-section5></app-section5>
+        } @placeholder { <div class="w-full h-[170vh]"></div> }
+
+    </section>
+
+    <section id="section6" class="panel min-h-screen relative" data-bgcolor="var(--white)"
+        data-textcolor="var(--primary)">
+        <div #section5Trigger class="pointer-events-none absolute left-0 right-0 bottom-[25vh] h-px"></div>
+
+        @defer (on viewport(section5Trigger); prefetch on idle) {
+        <app-section6></app-section6>
+        } @placeholder { <div class="w-full h-[100vh]"></div> }
+    </section>
+
+    <section id="section7" class="panel min-h-screen relative" data-bgcolor="var(--primary)"
+        data-textcolor="var(--white)">
+        <div #section6Trigger class="pointer-events-none absolute left-0 right-0 bottom-[25vh] h-px"></div>
+
+
+        @defer (on viewport(section5Trigger); prefetch on idle) {
+        <app-section7></app-section7>
+        } @placeholder { <div class="w-full h-[100vh]"></div> }
+    </section>
+
+    <section id="section8" class="panel min-h-screen" data-bgcolor="var(--white)" data-textcolor="var(--primary)">
+        <div #section7Trigger class="pointer-events-none absolute left-0 right-0 bottom-[25vh] h-px"></div>
+
+
+        @defer (on viewport(section7Trigger); prefetch on idle) {
+        <app-section8></app-section8>
+        } @placeholder { <div class="w-full h-[100vh]"></div> }
+
+    </section>
+
+</div>

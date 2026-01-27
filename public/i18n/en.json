@@ -1,0 +1,709 @@
+{
+  "NAVBAR": {
+    "MAIN": "Home",
+    "ABOUT-US": "About us",
+    "SOLUTIONS": "Solutions and sectors",
+    "PRODUCTS": "Products",
+    "kNOWLEDGE": "Knowledge base",
+    "CONTACT": "Contact us",
+    "SUPPORT": "FAQs",
+    "SEARCH": "Search..."
+  },
+  "SEARCH": {
+    "RESULTS_TITLE": "Search Results",
+    "PLACEHOLDER": "Search for anything...",
+    "NO_RESULTS": "No results found matching your query.",
+    "READ_MORE": "Read more",
+    "VIEW_ALL": "View all results",
+    "LOADING": "Searching...",
+    "BADGE_BLOG": "Blog",
+    "BADGE_FAQ": "FAQ",
+    "BADGE_SITE": "Page"
+  },
+  "HOME": {
+    "INDECATORS": {
+      "ABOUT": "About Al-Motammem",
+      "FACTS": "Quick facts",
+      "WHY": "Why Al-Motammem?",
+      "APPS": "Applications",
+      "TESTIMONIALS": "Customer testimonials",
+      "INTEGRATIONS": "Integrations",
+      "PLANS": "Plans",
+      "CONTACT": "Contact us"
+    },
+    "HERO": {
+      "TITLE": "Manage all your operations in one integrated system",
+      "SUB-TITLE": "Al Motammem ERP for enterprise resource management, backed by 40 years of experience in local and Gulf markets.",
+      "DETAILS": "Financial management - inventory - HR and payroll - reporting - fixed assets management - cash and banks - letters of guarantee - letters of credit - tax integrations, plus many more features tailored to your business.",
+      "BTN1": "Book a free consultation",
+      "BTN2": "Start chat now"
+    },
+    "STATUS": {
+      "CARD1": "Active Clients",
+      "CARD2": "Years of Experience",
+      "CARD3": "System Availability",
+      "CARD4": "Average Uptime",
+      "WEEKS": "Weeks",
+      "beMEMBER": "Join our family of clients now",
+      "SEE-DETAILS": "Request a detailed demo tailored to your business and see the difference yourself"
+    },
+    "SECTION3": {
+      "TITLE": "What makes Al-Motammem different from any other ERP",
+      "DETAILS": "The secret behind the expertise and success of thousands of companies for over 40 years that helps us continuously develop it",
+      "FEATURES": {
+        "FEATURE1": {
+          "TITLE": "Comprehensive bilingual Arabic–English ERP",
+          "TEXT": "An Arabic user interface and experience tailored for local businesses, fully compliant with tax, labor, and e-invoicing regulations."
+        },
+        "FEATURE2": {
+          "TITLE": "Fast implementation",
+          "TEXT": "Start working with Al-Motammem within weeks, not months or years, so you can see results immediately."
+        },
+        "FEATURE3": {
+          "TITLE": "Transparent pricing",
+          "TEXT": "Clear plans with no hidden fees – you always know exactly what you are paying."
+        },
+        "FEATURE4": {
+          "TITLE": "Local Arabic support with SLAs",
+          "TEXT": "Fast local technical support in Egypt and Saudi Arabia with guaranteed service levels."
+        },
+        "FEATURE5": {
+          "TITLE": "Ready-made integrations",
+          "TEXT": "Instant integration with payment systems, tax platforms, and APIs to streamline your operations."
+        },
+        "FEATURE6": {
+          "TITLE": "Advanced data security and protection",
+          "TEXT": "Al-Motammem follows high security standards and provides data governance to protect your information and ensure compliance with local and international regulations."
+        },
+        "FEATURE7": {
+          "TITLE": "Flexible plans that grow with you",
+          "TEXT": "Mini for individuals and freelancers, Standard for small and medium businesses, and Plus for large enterprises that need advanced customization."
+        }
+      }
+    },
+    "APPLICATIONS": {
+      "TITLE": "All applications that cover every aspect of your business",
+      "APP1": "Financial & Accounting Management",
+      "APP2": "Sales & Invoicing",
+      "APP3": "Purchasing & Vendors",
+      "APP4": "Inventory & Procurement Management",
+      "APP5": "Fixed Assets Management",
+      "APP6": "Cash Management",
+      "APP7": "Letters of Guarantee & Letters of Credit",
+      "APP8": "Reports & Dashboards",
+      "APP9": "Electronic Payment Integrations",
+      "FOOTER": "Explore all applications to find the features and add-ons that suit your needs"
+    },
+    "TESTIMONIALS": {
+      "TITLE": "Thousands of companies have trusted Al-Motammem for over 40 years",
+      "CARD1": {
+        "QUOTE": "Al-Motammem completely transformed the way we manage our operations — it made it easier to monitor everything from finance to inventory, and decision-making has become faster than ever.",
+        "AUTHOR": "Finance Manager – Americana"
+      },
+      "CARD2": {
+        "QUOTE": "After implementing Al-Motammem, the time spent on accounting review dropped by 60%. The integration between sales and accounting saved us from recurring errors.",
+        "AUTHOR": "IT Manager – EG Bank"
+      },
+      "CARD3": {
+        "QUOTE": "From the first week of go-live, we noticed a big difference in team efficiency. Real-time reports from Al-Motammem helped us closely track performance and reduce errors.",
+        "AUTHOR": "Development Manager – El Sewedy"
+      },
+      "CARD4": {
+        "QUOTE": "What distinguishes Al-Motammem most is its flexibility. We were able to customize the system easily to match our way of working without any complexity.",
+        "AUTHOR": "CEO – Texmar"
+      },
+      "CARD5": {
+        "QUOTE": "A highly reliable system with excellent uptime, and the support team is always fast and cooperative. A smooth experience from day one.",
+        "AUTHOR": "Operations Manager – Abercrombie & Kent"
+      },
+      "CARD6": {
+        "QUOTE": "A truly integrated system. The modules are smartly interconnected, and the support team is always available for any inquiry. A trusted experience worthy of our confidence.",
+        "AUTHOR": "CEO – Texmar"
+      }
+    },
+    "INTEGRATIONS": {
+      "TITLE": "Integrations, and performance that no other system offers with this level of ease of use",
+      "SUB-TITLE": "Al-Motammem is not just an ERP, and it doesn’t force you to start from scratch. It connects with your existing tools such as Google, Excel, payment gateways, complies with tax systems (ETA & ZATCA), and integrates with your bank accounts. Everything works together seamlessly, with no complexity and no extra development costs.",
+      "DETAILS": "These ready-made integrations for importing and exporting data mean your team doesn’t waste time manually moving data or dealing with costly external interfaces."
+    },
+    "PLANS": {
+      "TITLE": "Well-designed plans that support the growth of thousands of companies for over 40 years.",
+      "SUB-TITLE": "Add dozens of features to any of our programs as your business grows or diversifies over time. Our long experience means every plan is designed to match the stage your company is going through — from day one until you become a large enterprise.",
+      "DETAILS": "All plans include free updates and continuous technical support.",
+      "CARD1": {
+        "TITLEp1": "Al-Motammem Mini ",
+        "TITLEp2": "for Individuals",
+        "LIST": [
+          "Smart invoice and task management.",
+          "Simple dashboard.",
+          "Invoicing module.",
+          "Basic reports."
+        ],
+        "CTA": "Try for free"
+      },
+      "CARD2": {
+        "TITLEp1": "Al-Motammem for Small",
+        "TITLEp2": " and Medium Businesses",
+        "LIST": [
+          "Manage all your daily operations.",
+          "Finance.",
+          "Inventory.",
+          "Human resources.",
+          "Real-time reports."
+        ],
+        "CTA": "Request a quote"
+      },
+      "CARD3": {
+        "TITLEp1": "Al-Motammem Plus ",
+        "TITLEp2": "for Large Enterprises",
+        "LIST": [
+          "Full customization and advanced",
+          "capabilities",
+          "Workflow customization.",
+          "Premium local support (SLA).",
+          "Extensive integrations."
+        ],
+        "CTA": "Book a free consultation"
+      },
+      "CTA": "Start chat now"
+    },
+    "CONTACT-US": {
+      "TITLE": "Start your business transformation journey with Al-Motammem today",
+      "DETAILS": "Join thousands of companies that have relied on Al-Motammem over the past 40 years to simplify their operations and achieve faster growth. Our team is ready to walk you through all the details and support you now.",
+      "BTN1": "Book a free consultation",
+      "BTN2": "Try Mini Motammem for individuals for free"
+    }
+  },
+  "ABOUT": {
+    "HERO": {
+      "TITLE": "With more than four decades of experience in delivering ERP systems tailored to different industries, Al-Motammem is one of the pioneers in providing ERP systems and software solutions in Egypt, the Middle East, North Africa, and the GCC region since 1986. Our systems are built on smart, advanced technologies designed specifically based on analyzing each client's needs and business rules to match the nature of their operations. Al-Motammem is available in multiple packages and a wide range of solutions crafted to meet diverse business requirements across various sectors, from inventory management to sales, customer relations, HR, and more. Whatever your organization’s needs are, Al-Motammem is here to simplify your operations and keep you ahead of the competition."
+    },
+    "SECTION2": {
+      "TITLE1": "Al-Motammem is specifically designed to deliver innovation with power, efficiency, and high performance,",
+      "TITLE2": "to ensure exceptional operational performance.",
+      "TITLE3": "Take your business to new horizons and enjoy a smooth, enjoyable business management experience."
+    },
+    "SECTION3": {
+      "VISION": {
+        "LABEL": "Our Vision",
+        "TEXT": "To build long-term partnerships with our clients and be true partners in their progress, success, and sustainable business growth by leveraging our deep expertise in software and implementing integrated application solutions. We believe that our role does not end with closing the sale; it actually starts there, because our clients’ success after implementation is the core of our mission and our true measure of achievement."
+      },
+      "MISSION": {
+        "LABEL": "Our Mission",
+        "TEXT": "To enable our partners and clients to grow and succeed by providing integrated ERP solutions that help them make faster decisions, achieve continuous growth and development, and ensure seamless operations."
+      },
+      "MESSAGE": {
+        "LABEL": "Our Message",
+        "TEXT": "We believe that real success comes from managing operations intelligently and efficiently. We are committed to delivering smart, comprehensive ERP solutions that help companies achieve their goals with high efficiency."
+      }
+    },
+    "SECTION4": {
+      "TITLE": "Our Values",
+      "VALUES": {
+        "TRUST": {
+          "TITLE": "Trust",
+          "TEXT": "Over four decades of continuous work, Al Motammem has earned the trust of many clients across Egypt, the Middle East, and North Africa. This trust stems from our high level of professionalism and craftsmanship throughout all stages of our work."
+        },
+        "QUALITY": {
+          "TITLE": "Quality",
+          "TEXT": "Al Motammem strives to deliver ERP System solutions through high-quality software that adds real value to its clients and contributes to the growth of their businesses."
+        },
+        "INNOVATION": {
+          "TITLE": "Development & Innovation",
+          "TEXT": "Al Motammem and its leadership believe that continuous development and innovation are the foundation for delivering advanced and creative solutions that provide a completely different user experience. Through continuous research, studies, and keeping up with the latest regulations and technologies, our teams and engineers deliver innovative technological solutions that simplify tasks and operations while complying with laws, regulations, and legislations."
+        },
+        "EFFICIENCY": {
+          "TITLE": "Efficiency & Effectiveness",
+          "TEXT": "The efficiency and effectiveness of our services, teams, and support staff are key pillars in earning our clients’ trust and reliance on the solutions we provide to simplify their tasks and drive them toward growth and prosperity."
+        },
+        "COMMITMENT": {
+          "TITLE": "Commitment",
+          "TEXT": "We are committed to providing continuous support for our systems and our clients’ teams, delivering smart and comprehensive ERP System solutions that help achieve our clients’ business objectives."
+        },
+        "INTEGRITY": {
+          "TITLE": "Strength & Ethics",
+          "TEXT": "Al Motammem believes that true strength stems from professional principles and ethical and cultural values. Commitment to our institutional principles and ethical policies is embodied by all our employees, as our ethical values represent personal principles and a way of life shared by everyone in our organization."
+        }
+      }
+    },
+    "SECTION5": {
+      "TITLE": "Al Motammem is your partner in simplifying your business",
+      "BTN1": "Contact Us",
+      "BTN2": "Start chat Know"
+    }
+  },
+  "SOLUTIONS": {
+    "HERO": {
+      "TITLE": "All your business cycles in one place, even across multiple companies and different operations",
+      "DETAILS": "From finance, inventory, sales, and purchasing to HR — discover how Al-Motammem brings all operations together under a single system, whether for one company or multiple companies, with consolidated reporting across companies and other levels."
+    },
+    "SECTION2": {
+      "TITLE": "Our Core Courses",
+      "COURSES": {
+        "FINANCE": {
+          "TITLE": "Finance & Accounting",
+          "DESC": "General ledger, accounts, fixed assets and depreciation, cost centers, financial reports."
+        },
+        "INVENTORY": {
+          "TITLE": "Inventory",
+          "DESC": "Inventory control, stock valuation, balance tracking, stocktaking, and revaluation of inventory."
+        },
+        "PURCHASING": {
+          "TITLE": "Purchasing and Supplier Accounts with payables tracking",
+          "DESC": "Full purchasing cycle from purchase requisitions, supplier quotations and evaluation, to purchase orders, receipts, invoices and returns, and purchasing analysis."
+        },
+        "SALES": {
+          "TITLE": "Sales and Customer Accounts with receivables tracking",
+          "DESC": "Full sales cycle from quotation requests and price offers, to sales orders, invoicing, delivery and returns, statements of account and aging of receivables, and sales analysis."
+        },
+        "HR": {
+          "TITLE": "HR & Payroll",
+          "DESC": "Employee management, payroll, attendance and time tracking, performance, HR records, recruitment, appraisal, and employee self-services."
+        },
+        "PROJECTS": {
+          "TITLE": "Projects & Control",
+          "DESC": "Resource planning, project costing, and execution tracking."
+        },
+        "REPORTS": {
+          "TITLE": "Reports & Dashboards",
+          "DESC": "Real-time insights, performance indicators, and custom analytics."
+        }
+      }
+    },
+    "SECTION3": {
+      "TITLE": "Al Motammem serves most business sectors",
+      "DESC": "Regardless of your company’s field, Al Motammem provides integrated functionalities that help you manage your business more efficiently, serving industries ranging from manufacturing and commercial companies to service sectors, distribution, export and import, non-profit organizations, and multinational corporations.",
+      "SECTORS": {
+        "COMMERCIAL": {
+          "TITLE": "Commercial Sector",
+          "DESC": "Accurate management of financial data with advanced reports and analytics, timely generation of all financial reports, and automated alerts triggered upon or prior to predefined financial events."
+        },
+        "MANUFACTURING": {
+          "TITLE": "Manufacturing",
+          "DESC": "Track items and their movements, including raw materials, semi-finished goods and finished products, with full costing for each item. All movements are linked to sales, purchases and both production and service cost centers, with alerts when predefined thresholds or conditions are reached or about to be reached."
+        },
+        "CONTRACTING": {
+          "TITLE": "Contracting",
+          "DESC": "Monitor supplier and subcontractor accounts, and calculate the costs and revenues of each project and every work item in real time, fully linked to trial balances, income statements and balance sheets."
+        },
+        "NON_PROFIT": {
+          "TITLE": "Non-profit Organizations",
+          "DESC": "Track funding sources and related spending, link them to the planned budget, and receive alerts when predefined limits or conditions are about to be or have been exceeded."
+        },
+        "IMPORT_EXPORT": {
+          "TITLE": "Import & Export",
+          "DESC": "Follow up import operations and calculate the exact cost of each shipment and every item within it, linking this to inventory and accounts until the item reaches the warehouse, enabling accurate real-time cost of sales and profitability calculations."
+        },
+        "DISTRIBUTION": {
+          "TITLE": "Distribution",
+          "DESC": "Monitor the sales plan at company, region and sales-rep levels and beyond, follow up sales representatives and their commissions, and generate detailed analytics on sales and profitability by rep, region, governorate, city, route and item, and many other analysis dimensions."
+        },
+        "MULTINATIONAL": {
+          "TITLE": "Multinational Companies",
+          "DESC": "Accurate management of financial data with advanced reports and analytics, and the ability to generate all financial reports in real time in operating currencies, local currency and the parent company’s currency."
+        },
+        "FOOD_BEVERAGE": {
+          "TITLE": "Food & Beverage",
+          "DESC": "Accurately track items and their expiry dates, and monitor production batches for each item, whether on purchase, sale or remaining stock."
+        },
+        "SERVICES": {
+          "TITLE": "Services",
+          "DESC": "Manage contracts, monitor team performance and issue invoices with ease and accuracy."
+        },
+        "TRADING_PROJECTS": {
+          "TITLE": "Trading, Import/Export & Projects",
+          "DESC": "Plan resources, control costs and schedule tasks for each project, with direct linkage to financial and operational results."
+        },
+        "FINANCE_ACCOUNTING": {
+          "TITLE": "Finance & Accounting",
+          "DESC": "Accurate management of financial data with advanced reports and analytics, real-time financial reporting, and alerts when predefined thresholds or conditions are about to be or have been reached."
+        }
+      }
+    },
+    "SECTION4": {
+      "TITLE": "The integration that makes all your company’s departments work in harmony and accuracy",
+      "DETAILES": "Al-Motammem does not only connect workflows—it creates a unified environment that brings together all your departments, from finance and sales to HR, projects, and more, all operating on the same system."
+    },
+    "SECTION5": {
+      "TITLE": "This means that data flows seamlessly across different departments regardless of the sector, enabling faster decision-making and eliminating errors caused by manual data transfer.",
+      "INTEGRATIONS": {
+        "ITEM1": {
+          "TITLE": "Internal Integration",
+          "TEXT": "Any update made in one department is instantly reflected across all others, allowing you to verify data accuracy before it impacts the system."
+        },
+        "ITEM2": {
+          "TITLE": "Cross-Sector Integration",
+          "TEXT": "Even companies with diverse operations (manufacturing, sales, services) can run smoothly on the same unified platform."
+        },
+        "ITEM3": {
+          "TITLE": "External Integrations (APIs)",
+          "TEXT": "Connect your external systems with your current tools — payment gateways, banking systems, team tools (Google Meet, Excel), and tax platforms (ETA & ZATCA)."
+        },
+        "ITEM4": {
+          "TITLE": "Unified Dashboard",
+          "TEXT": "Gives you a complete and real-time overview of performance across all departments, sectors, and companies in one place."
+        }
+      }
+    },
+    "CONSULTATION": {
+      "TITLE": "Discover the solutions that fit your company",
+      "SUB-TITLE": "Every company has unique needs — Al-Motammem gives you the flexibility to choose how you work, how you prefer to organize operations, and it integrates smoothly with your existing systems.",
+      "DETAILS": "Let us help you identify what works best for your business, step by step. Al-Motammem adapts to the way you work — not the other way around.",
+      "BTN1": "Book a free consultation with one of our experts",
+      "FOOTER": "Over 40 years of experience building systems that support efficiency and sustainability for companies across different sectors."
+    }
+  },
+  "PRODUCTS": {
+    "SECTION1": {
+      "TITLE": "Solutions that fit every stage of your company’s journey",
+      "SUB-TITLE": "The platform offers three packages designed to match the needs of all types of companies, from individuals and small projects to large enterprises.",
+      "CARD1": {
+        "TITLEp1": "Al-Motammem Mini",
+        "TITLEp2": "(Mini)",
+        "LIST": {
+          "0": "Designed for individuals and freelancers who need simple, fast management without complexity.",
+          "1": "Everything you need in an easy-to-use interface.",
+          "2": "Finance, invoicing, and essential reports."
+        },
+        "FEATURES_TITLE": "Key features",
+        "FEATURES": {
+          "0": "Sales",
+          "1": "Purchases",
+          "2": "Customers & vendors management",
+          "3": "Inventory management",
+          "4": "Tax invoices",
+          "5": "Essential reports"
+        },
+        "CTA": "Try it now for free"
+      },
+      "CARD2": {
+        "TITLEp1": "Al-Motammem",
+        "TITLEp2": "",
+        "LIST": {
+          "0": "For small and medium businesses that need a complete system to manage financial resources, purchasing, inventory and sales from a single platform.",
+          "1": "Provides advanced operational reports and integration with tax systems."
+        },
+        "FEATURES_TITLE": "Key features",
+        "FEATURES": {
+          "0": "Point of sale (POS)",
+          "1": "General ledger & accounting",
+          "2": "Advanced inventory management",
+          "3": "Branches management",
+          "4": "Manufacturing",
+          "5": "Human resources management",
+          "6": "Integration with government platforms and systems",
+          "7": "Advanced operational reports"
+        },
+        "CTA": "Book a free consultation"
+      },
+      "CARD3": {
+        "TITLEp1": "Al-Motammem Plus",
+        "TITLEp2": "(Plus)",
+        "LIST": {
+          "0": "Designed for large enterprises with multiple branches and sectors that need flexible customization and advanced permissions, with integration to external systems.",
+          "1": "Delivers the highest levels of security, support, and smart analytics."
+        },
+        "FEATURES_TITLE": "Key features",
+        "FEATURES": {
+          "0": "Full customization for all modules",
+          "1": "End-to-end solutions for large enterprises",
+          "2": "Fully integrated ERP",
+          "3": "Extensive integration capabilities",
+          "4": "Granular role-based access control",
+          "5": "Operational intelligence & data analytics"
+        },
+        "CTA": "Request a custom quote"
+      },
+      "DETAILS": "Any features that are not available in one of the systems can be added separately."
+    },
+    "SECTION7": {
+      "MAINTITLE": "What makes Al Motammem packages unique",
+      "TITLE1": "1- Configuration",
+      "TITLE2": {
+        "Tar": "2- Total Cost of Ownership… not just the subscription",
+        "Ten": ""
+      },
+      "TITLE3": "3- Support you can truly rely on - Real Lifetime Support",
+      "TITLE4": "4- System Flexibility"
+    },
+    "SECTION2": {
+      "TITLE1": {
+        "Tar": "1- True Configuration",
+        "Ten": ""
+      },
+      "SUBTITLE": "One solution, precisely tailored to your company’s needs.",
+      "DESC": "Unlike traditional plans available in the market, the platform does not force you to commit to a predefined package; instead, it allows you to design the system exactly as you see fit, through:",
+      "LIST": {
+        "0": "Configuration business processes",
+        "1": "(Workflow)",
+        "2": "Adding or removing any feature",
+        "3": "Modifying access permissions",
+        "4": "Integrating different solutions",
+        "5": "Configuration the interface"
+      },
+      "BOTTOM": {
+        "TITLE": "This means:",
+        "LIST": {
+          "0": "The system adapts to your business",
+          "1": "You don’t pay for what you don’t need",
+          "2": "Easily scaling your business without",
+          "3": "changing the entire system"
+        }
+      }
+    },
+    "SECTION3": {
+      "TITLE11": "2- Total Cost of Ownership… not just",
+      "TITLE12": "the subscription",
+      "TITLE2": {
+        "p1": "In most solutions available in the market, the subscription price appears simple",
+        "p2": "at the beginning… but additional costs quickly accumulate: support, training,",
+        "p3": "custom development, adding users, special configurations… and more.",
+        "p4": "In the end, the actual cost becomes much higher than it initially appears."
+      }
+    },
+    "SECTION4": {
+      "TITLE": "What makes our cost model different?",
+      "SUBTITLE": "We provide a clear and transparent cost model that includes everything you need to run your business efficiently, with no hidden fees or unexpected add-ons:",
+      "ITEMS": {
+        "0": "Continuous technical support throughout the subscription period",
+        "1": "Add or remove any feature",
+        "2": "Modify access permissions",
+        "3": "Maintenance and technical solutions for any emergency issue",
+        "4": "Interface customization",
+        "5": "Interface customization"
+      }
+    },
+    "SECTION5": {
+      "TITLE": {
+        "Tar": "3- Support you can truly rely on",
+        "Ten": "- Real Lifetime Support"
+      },
+      "SUBTITLE": "In most market solutions, support is just a short first step… limited communication, inconsistent follow-up, and a real absence when you need it most. This leaves companies facing daily challenges alone—without backup or accompanying expertise.",
+      "DETAILS": "But our platform is built on real, continuous support throughout your journey:",
+      "LIST": {
+        "0": "A specialized human support team of accounting and technical experts.",
+        "1": "Instant issue tracking and follow-up, moment by moment.",
+        "2": "On-site or online visits based on your business needs.",
+        "3": "Full assistance with setup and launch (Onboarding).",
+        "4": "Effective support as you scale and grow your operations."
+      },
+      "FOOTER": {
+        "p1": "With our platform… you won’t be alone on the journey.",
+        "p2": "You’ll find a team that’s present, supportive, and a true partner in running your business."
+      }
+    },
+    "SECTION6": {
+      "TITLE": {
+        "Tar": "4- System Flexibility",
+        "Ten": ""
+      },
+      "SUBTITLE": {
+        "PART1": "True operational flexibility… a system that adapts to you at every stage. In most ERP systems, the platform is rigid and fixed, forcing companies to follow a single operating model—even when it does not fit their business or the way their teams work.",
+        "PART2": "Over time, the problem begins to surface:"
+      },
+      "POINTS": {
+        "0": "You need simple adjustments, only to discover they are impossible",
+        "1": "Processes change, but the system cannot accommodate that change",
+        "2": "As the company grows, you are forced to replace the entire system"
+      },
+      "FOOTER": "At Al-Motammem, flexibility is a core part of system design—not a side add-on, as proven by our experience with thousands of companies over 40 years."
+    },
+    "SECTION8": {
+      "TITLE": "How do we deliver real operational flexibility?",
+      "LIST": {
+        "ITEM1": {
+          "BOLD": "The system adapts to your growth stages:",
+          "TEXT": "Whether your company is just starting or already a large enterprise, the system scales with you—without needing to replace the entire solution."
+        },
+        "ITEM2": {
+          "BOLD": "Operational Flexibility in workflow design:",
+          "TEXT": "You can modify workflow steps, add stages, remove stages, or adjust the operating cycle to match the way your company works."
+        },
+        "ITEM3": {
+          "BOLD": "Flexible user management and permissions:",
+          "TEXT": "Full control over roles, teams, departments, and access scope—without complicated restrictions."
+        },
+        "ITEM4": {
+          "BOLD": "Integrates with any other system:",
+          "TEXT": "Flexible API integrations let you connect external solutions easily (accounting, banking, payment gateways, CRM, etc.)."
+        },
+        "ITEM5": {
+          "BOLD": "Supports different industries and business types:",
+          "TEXT": "Whether you operate in manufacturing, services, trade, distribution, or project-based work…"
+        }
+      },
+      "FOOTER": "The system is designed to support any business nature—without additional development.",
+      "CTA": "Request a setup tailored to your company"
+    }
+  },
+  "privacy": {
+    "intro": "Microtech is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of Microtech's website",
+    "voluntary": {
+      "title": "Voluntary Submission",
+      "body": "Microtech does not collect personally identifying information about any individual Microtech website user except when knowingly provided by such individual. For example, we may ask you for information when you register for a contest or survey or to receive a newsletter. You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still visit most of the Microtech website, but you may be unable to access certain options and services."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "body": "A cookie is a data file that certain websites write to your computer's hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited. Microtech uses cookies solely to track user traffic patterns throughout the Microtech website. We use this data on an anonymous basis and we do not correlate this information with personal data of any user. Most website browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, if you choose to disable the receipt of cookies from our website, you may not be able to use certain features of the site."
+    },
+    "browser": {
+      "title": "Browser Level Information",
+      "body": "Microtech web servers automatically collect information about a site user's IP address, browser type and referrer by reading this information from the user's browser (information provided by every user's browser). This information is collected in a database and used in an aggregated, anonymous manner in our internal analysis of traffic patterns within our website. This information is automatically logged by most websites."
+    },
+    "use": {
+      "title": "Use of Information",
+      "p1": "Our primary goal in collecting user information is to enhance your experience on our website. We achieve this goal by, among other things, providing interactive communications such as our electronic newsletters to the e-mail address that you provide to us, and developing future editorial content based on your interests. To develop content targeted to your interests, we use aggregated user information to determine which areas of our website users prefer based upon traffic to those areas. We do not track what individual users read, but instead how well each page or content area performs overall.",
+      "p2": "Microtech could derive some benefits and/or revenue from advertising. In order to attract and retain advertisers we use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. We do not disclose personally identifying information about our users to these parties.",
+      "p3": "Microtech may also disclose information about our users when we believe, in good faith, that the disclosure is required by law.",
+      "p4": "When you are on an area of Microtech website and are asked for personal information, you are sharing that information with Microtech as well as business partners and vendors providing hosting and other services for Microtech. If you do not want your information to be shared, you can choose not to allow the transfer of your information by not using that particular service. These parties, as well as advertisers who contract directly with a third-party service to serve their advertisements, may set their own cookies.",
+      "p5": "In addition, any personally identifiable information provided by our users as part of an advertiser promotion online may be provided directly to advertisers.",
+      "p6": "Please be aware that Microtech sponsors, advertisers or websites that have links on our site may collect personally identifiable information about you. The information practices of those parties and websites linked to Microtech are not covered by this privacy statement. Microtech users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others.",
+      "children": "Children under 13: Do not send any information about yourself to us including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible."
+    },
+    "footer": "This statement may change from time to time, so please check back periodically."
+  },
+  "terms": {
+    "intro": "The Operators of this Website provide it as a public service to our users.",
+    "legal": {
+      "title": "Legal Notices",
+      "p1": "Please carefully review the following basic rules that govern your use of the Website. Please note that your use of the Website constitutes your unconditional agreement to follow and be bound by these Terms and Conditions of Use. If you (the “User”) do not agree to them, do not use the Website, provide any materials to the Website or download any materials from it.",
+      "p2": "The Operators reserve the right to update or modify these Terms and Conditions at any time without prior notice to User. Your use of the Website following any such change constitutes your unconditional agreement to follow and be bound by these Terms and Conditions as changed. For this reason, we encourage you to review these Terms and Conditions of Use whenever you use the Website.",
+      "p3": "These Terms and Conditions of Use apply to the use of the Website and do not extend to any linked third party sites. These Terms and Conditions and our Privacy Statement, which are hereby incorporated by reference, contain the entire agreement (the “Agreement”) between you and the Operators with respect to the Website. Any rights not expressly granted herein are reserved."
+    },
+    "permitted": {
+      "title": "Permitted and Prohibited Uses",
+      "p1": "You may use the Website for the sole purpose of sharing and exchanging ideas with other Users. You may not use the Website to violate any applicable local, state, national, or international law, including without limitation any applicable laws relating to antitrust or other illegal trade or business practices, federal and state securities laws, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any national or other securities exchange, and any U.S. laws, rules, and regulations governing the export and re-export of commodities or technical data.",
+      "p2": "You may not upload or transmit any material that infringes or misappropriates any person's copyright, patent, trademark, or trade secret, or disclose via the Website any information the disclosure of which would constitute a violation of any confidentiality obligations you may have.",
+      "p3": "You may not upload any viruses, worms, Trojan horses, or other forms of harmful computer code, nor subject the Website's network or servers to unreasonable traffic loads, or otherwise engage in conduct deemed disruptive to the ordinary operation of the Website.",
+      "p4": "You are strictly prohibited from communicating on or through the Website any unlawful, harmful, offensive, threatening, abusive, libelous, harassing, defamatory, vulgar, obscene, profane, hateful, fraudulent, sexually explicit, racially, ethnically, or otherwise objectionable material of any sort, including, but not limited to, any material that encourages conduct that would constitute a criminal offense, give rise to civil liability, or otherwise violate any applicable local, state, national, or international law.",
+      "p5": "You are expressly prohibited from compiling and using other Users' personal information, including addresses, telephone numbers, fax numbers, email addresses or other contact information that may appear on the Website, for the purpose of creating or compiling marketing and/or mailing lists and from sending other Users unsolicited marketing materials, whether by facsimile, email, or other technological means.",
+      "p6": "You also are expressly prohibited from distributing Users' personal information to third parties for marketing purposes. The Operators shall deem the compiling of marketing and mailing lists using Users' personal information, the sending of unsolicited marketing materials to Users, or the distribution of Users' personal information to third parties for marketing purposes as a material breach of these Terms and Conditions of Use, and the Operators reserve the right to terminate or suspend your access to and use of the Website and to suspend or revoke your membership in the consortium without refund of any membership dues paid.",
+      "p7": "The Operators note that unauthorized use of Users' personal information in connection with unsolicited marketing correspondence also may constitute violations of various state and federal anti-spam statutes. The Operators reserve the right to report the abuse of Users' personal information to the appropriate law enforcement and government authorities, and the Operators will fully cooperate with any authorities investigating violations of these laws."
+    },
+    "submissions": {
+      "title": "User Submissions",
+      "p1": "The Operators do not want to receive confidential or proprietary information from you through the Website. Any material, information, or other communication you transmit or post (“Contributions”) to the Website will be considered non-confidential.",
+      "p2": "All contributions to this site are licensed by you under the MIT License to anyone who wishes to use them, including the Operators. If you work for a company or at a University, it's likely that you're not the copyright holder of anything you make, even in your free time. Before making contributions to this site, get written permission from your employer."
+    },
+    "forums": {
+      "title": "User Discussion Lists and Forums",
+      "p1": "The Operators may, but are not obligated to, monitor or review any areas on the Website where users transmit or post communications or communicate solely with each other, including but not limited to user forums and email lists, and the content of any such communications. The Operators, however, will have no liability related to the content of any such communications, whether or not arising under the laws of copyright, libel, privacy, obscenity, or otherwise. The Operators may edit or remove content on the Website at their discretion at any time."
+    },
+    "pii": {
+      "title": "Use of Personally Identifiable Information",
+      "p1": "Information submitted to the Website is governed according to the Operators’ current Privacy Policy and the stated license of this website. You agree to provide true, accurate, current, and complete information when registering with the Website. It is your responsibility to maintain and promptly update this account information to keep it true, accurate, current, and complete. If you provide any information that is fraudulent, untrue, inaccurate, incomplete, or not current, or we have reasonable grounds to suspect that such information is fraudulent, untrue, inaccurate, incomplete, or not current, we reserve the right to suspend or terminate your account without notice and to refuse any and all current and future use of the Website.",
+      "p2": "Although sections of the Website may be viewed simply by visiting the Website, in order to access some Content and/or additional features offered at the Website, you may need to sign on as a guest or register as a member. If you create an account on the Website, you may be asked to supply your name, address, a User ID and password.",
+      "p3": "You are responsible for maintaining the confidentiality of the password and account and are fully responsible for all activities that occur in connection with your password or account. You agree to immediately notify us of any unauthorized use of either your password or account or any other breach of security. You further agree that you will not permit others, including those whose accounts have been terminated, to access the Website using your account or User ID.",
+      "p4": "You grant the Operators and all other persons or entities involved in the operation of the Website the right to transmit, monitor, retrieve, store, and use your information in connection with the operation of the Website and in the provision of services to you. The Operators cannot and do not assume any responsibility or liability for any information you submit, or your or third parties’ use or misuse of information transmitted or received using website. To learn more about how we protect the privacy of the personal information in your account, please visit our Privacy Statement."
+    },
+    "indemnification": {
+      "title": "Indemnification",
+      "p1": "You agree to defend, indemnify and hold harmless the Operators, agents, vendors or suppliers from and against any and all claims, damages, costs and expenses, including reasonable attorneys' fees, arising from or related to your use or misuse of the Website, including, without limitation, your violation of these Terms and Conditions, the infringement by you, or any other subscriber or user of your account, of any intellectual property right or other right of any person or entity."
+    },
+    "termination": {
+      "title": "Termination",
+      "p1": "These Terms and Conditions of Use are effective until terminated by either party. If you no longer agree to be bound by these Terms and Conditions, you must cease use of the Website. If you are dissatisfied with the Website, its content, or any of these terms, conditions, and policies, your sole legal remedy is to discontinue using the Website.",
+      "p2": "The Operators reserve the right to terminate or suspend your access to and use of the Website, or parts of the Website, without notice, if we believe, in our sole discretion, that such use (i) is in violation of any applicable law; (ii) is harmful to our interests or the interests, including intellectual property or other rights, of another person or entity; or (iii) where the Operators have reason to believe that you are in violation of these Terms and Conditions of Use."
+    },
+    "warranty": {
+      "title": "Warranty Disclaimer",
+      "p1": "THE WEBSITE AND ASSOCIATED MATERIALS ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, THE OPERATORS DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF INTELLECTUAL PROPERTY.",
+      "p2": "THE OPERATORS MAKE NO REPRESENTATIONS OR WARRANTY THAT THE WEBSITE WILL MEET YOUR REQUIREMENTS, OR THAT YOUR USE OF THE WEBSITE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR FREE; NOR DO THE OPERATORS MAKE ANY REPRESENTATION OR WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE WEBSITE.",
+      "p3": "IN NO EVENT SHALL THE OPERATORS OR ANY OF THEIR AGENTS, VENDORS OR SUPPLIERS BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION) ARISING OUT OF THE USE, MISUSE OF OR INABILITY TO USE THE WEBSITE, EVEN IF THE OPERATORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+      "p4": "YOU UNDERSTAND AND AGREE THAT ANY CONTENT DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE WEBSITE IS AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA OR BUSINESS INTERRUPTION THAT RESULTS FROM THE DOWNLOAD OF CONTENT.",
+      "p5": "LIABILITY LIMITATION. UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL OR EQUITABLE THEORY, WHETHER IN TORT, CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, SHALL THE OPERATORS OR ANY OF THEIR AGENTS, VENDORS OR SUPPLIERS BE LIABLE TO USER OR TO ANY OTHER PERSON FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL LOSSES OR DAMAGES OF ANY NATURE ARISING OUT OF OR IN CONNECTION WITH THE USE OF OR INABILITY TO USE THE WEBSITE.",
+      "p6": "THE OPERATORS'S TOTAL CUMULATIVE LIABILITY FOR ANY AND ALL CLAIMS IN CONNECTION WITH THE WEBSITE WILL NOT EXCEED FIVE U.S. DOLLARS ($5.00). USER AGREES AND ACKNOWLEDGES THAT THE FOREGOING LIMITATIONS ON LIABILITY ARE AN ESSENTIAL BASIS OF THE BARGAIN AND THAT THE OPERATORS WOULD NOT PROVIDE THE WEBSITE ABSENT SUCH LIMITATION."
+    },
+    "general": {
+      "title": "General",
+      "p1": "The Website is hosted in the United States. The Operators make no claims that the Content on the Website is appropriate or may be downloaded outside of the United States. Access to the Content may not be legal by certain persons or in certain countries. If you access the Website from outside the United States, you do so at your own risk and are responsible for compliance with the laws of your jurisdiction.",
+      "p2": "The provisions of the UN Convention on Contracts for the International Sale of Goods will not apply to these Terms.",
+      "p3": "Notice shall be deemed given upon personal delivery or facsimile, or, if sent by certified mail with postage prepaid, 5 business days after the date of mailing, or, if sent by international overnight courier with postage prepaid, 7 business days after the date of mailing.",
+      "p4": "If any provision herein is held to be unenforceable, the remaining provisions will continue in full force without being affected in any way. Further, the parties agree to replace such unenforceable provision with an enforceable provision that most closely approximates the intent and economic effect of the unenforceable provision.",
+      "p5": "Any action or proceeding arising out of or related to this Agreement or User's use of the Website must be brought in the courts of Belgium, and you consent to the exclusive personal jurisdiction and venue of such courts. Any cause of action you may have with respect to your use of the Website must be commenced within one (1) year after the claim or cause of action arises.",
+      "p6": "These Terms set forth the entire understanding and agreement of the parties, and supersede any and all oral or written agreements or understandings between the parties, as to their subject matter. The waiver of a breach of any provision of this Agreement shall not be construed as a waiver of any other or subsequent breach."
+    },
+    "links": {
+      "title": "Links to Other Materials",
+      "p1": "The Website may contain links to sites owned or operated by independent third parties. These links are provided for your convenience and reference only. We do not control such sites and, therefore, we are not responsible for any content posted on these sites. The fact that the Operators offer such links should not be construed in any way as an endorsement, authorization, or sponsorship of that site, its content or the companies or products referenced therein.",
+      "p2": "If you decide to access any of the third party sites linked to by the Website, you do this entirely at your own risk. Because some sites employ automated search results or otherwise link you to sites containing information that may be deemed inappropriate or offensive, the Operators cannot be held responsible for the accuracy, copyright compliance, legality, or decency of material contained in third party sites, and you hereby irrevocably waive any claim against us with respect to such sites."
+    },
+    "footer": "These terms may change from time to time, so please check back periodically."
+  },
+  "BLOGS": {
+    "TITLE": "Al Motammem Knowledge Center",
+    "DESC": "Here you will find concise articles that help you understand Enterprise Resource Planning (ERP) systems, develop your business, and explore best practices in financial management, inventory, human resources, and more… backed by over 40 years of experience.",
+    "MOST_READ": "Most Read",
+    "DISCOVER_MORE": "Discover more",
+    "ADD": "Add New Article",
+    "LOADING": "Loading articles...",
+    "ALL_ARTICLES": "All Articles",
+    "SHOW_MORE": "Show more articles",
+    "CTA": {
+      "TITLE": "Try Al Motammem System Now",
+      "SUB1": "Simpler financial management, faster reports, and higher security.",
+      "SUB2": "Sign up now for a free trial!"
+    },
+    "DELETE_CONFIRM": {
+      "MESSAGE": "Do you want to delete this article?",
+      "NO": "No",
+      "YES": "Yes"
+    }
+  },
+  "BLOG_VIEW": {
+    "CTA": {
+      "BUTTON": "Try Al Motammem Now",
+      "LINE1": "Easier financial management, faster reports, and higher security.",
+      "LINE2": "Sign up now to get a free trial!"
+    }
+  },
+  "CONTACT": {
+    "INTRO": "Tell us what you need, and one of our experts will get in touch with you within 24 hours.",
+    "CTA": "Contact Us",
+    "ADDRESS_COMPANY_NAME": "Microtech Company : ",
+    "WHATSAPP": "Connect via WhatsApp",
+    "ADDRESS_COMPANY": "3 Mosaddeq Street, Dokki, Giza, 12311, Cairo, Egypt",
+    "FORM": {
+      "FULL_NAME": "Full Name",
+      "PHONE": "Phone Number",
+      "EMAIL": "Email Address",
+      "MESSAGE": "Message / Describe your needs (Optional)",
+      "SUBMIT": "Submit"
+    }
+  },
+  "FAQ": {
+    "BADGE": "Frequently Asked Questions",
+    "TITLE": "FAQs",
+    "DESC": "Getting started with a business management software system requires ensuring it fits your operational needs and activities. We encourage you to review the answers provided here, and feel free to contact us by phone if you have any additional questions. We will be happy to assist you or receive your inquiries through the \"Contact Us\" page.",
+    "FORM": {
+      "REMOVE": "Delete",
+      "QUESTION_AR": "Question (Arabic)",
+      "QUESTION_EN": "Question (English)",
+      "ANSWER_AR": "Answer (Arabic)",
+      "ANSWER_EN": "Answer (English)",
+      "ADD_NEW": "Add New Question",
+      "SUBMIT": "Add"
+    },
+    "LOADING": "Loading FAQs..."
+  },
+  "FOOTER": {
+    "COMPANY_NAME": " Microtech Company:",
+    "CONTACT_TITLE": "Contact us",
+    "ADDRESS": "3 Mosaddeq Street, Dokki, 11321, Giza, Egypt",
+    "QUICK_LINKS_TITLE": "Quick links",
+    "LINK_HOME": "Home",
+    "LINK_ABOUT": "About us",
+    "LINK_SOLUTIONS": "Solutions and sectors",
+    "LINK_PRODUCTS": "Products",
+    "LINK_KNOWLEDGE": "Knowledge base",
+    "LINK_CONTACT": "Contact us",
+    "TERMS_TITLE": "Terms of use",
+    "PRIVACY_POLICY": "Privacy policy",
+    "TERMS_POLICY": "Terms & conditions",
+    "FAQS": "FAQs",
+    "LANGUAGES_TITLE": "Languages",
+    "LANG_AR": "العربية",
+    "LANG_EN": "English",
+    "COPYRIGHT": "© All rights reserved Al-Motammem® — Powered by Microtech"
+  }
+}
